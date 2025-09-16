@@ -1,0 +1,18 @@
+{
+  "name": "wcserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "express.js",
+  "type": "module",
+  "scripts": {
+    "start": "node express.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "multer": "^2.0.2"
+  }
+}
